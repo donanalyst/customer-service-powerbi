@@ -11,7 +11,7 @@ I hope that this analysis provides valuable insights and potential opportunities
 This dashboard aims to answer the following key business questions:
 
 - How many service requests were received this year compared to last year?
-- What is the trend of service requests over time (by year and time of day)? Are they increasing or - decreasing?
+- What is the trend of service requests over time (by year and time of day)? Are they increasing or decreasing?
 - What is the total number of service requests and closed cases?
 - What percentage of total service requests are closed?
 - What is the most common service request type?
