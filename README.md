@@ -30,7 +30,7 @@ This dashboard aims to answer the following key business questions:
 **Data Cleaning:** 
 - The dataset originally contained 16 columns; unnecessary and redundant ones were removed.
 - Blank values were addressed using **mode imputation**, replacing missing values with the most frequently occurring value in the column.
-- The **date and time column was split** intp separate columns for better time intelligence analysis.
+- The **date and time column was split** into separate columns for better time intelligence analysis.
 - All columns were formatted correctly to prevent potential data discrepancies.
 
 **Data Model:** The dataset follows a **flat file schema**, making it simple to analyze without requiring additional dimension tables.
